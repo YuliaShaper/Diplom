@@ -80,7 +80,7 @@ class MovieShots(models.Model):
     movie = models.ForeignKey(Movie, verbose_name="Фильм", on_delete=models.CASCADE)
 
     def __str__(self):
-        return self.title
+        return self.name
 
     class Meta:
         verbose_name = "Кадр из фильма"

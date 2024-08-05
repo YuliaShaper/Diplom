@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29964ddb-e4bd-4e73-9358-d29a401ee069" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom_movie/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom_movie/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/movies/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom_movie/movies/templates/movies/movie_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/movies/templates/movies/movie_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom_movie/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/static/css/bootstrap.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python313/fifth&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python313/Python313/car/carclass.py&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -61,6 +64,34 @@
       <recent name="D:\Diplom\diplom_movies\movies\movie" />
       <recent name="D:\Diplom\diplom_movies\movies\movies" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="carclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python313/Python313/car" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python313/Python313/car/carclass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.carclass" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
