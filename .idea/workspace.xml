@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="29964ddb-e4bd-4e73-9358-d29a401ee069" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diplom_movie/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diplom_movie/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/movies/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diplom_movie/movies/templates/movies/movie_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/movies/templates/movies/movie_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diplom_movie/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom_movie/movies/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom_movie/movies/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
